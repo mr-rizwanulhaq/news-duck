@@ -18,7 +18,7 @@ export default class App extends Component {
     return (
       <div>
 
-        <BrowserRouter>
+        <BrowserRouter basename='news-duck'>
         <NavBar></NavBar>
           <Routes>
               <Route exact path="/" element={<News pageSize={this.pageSize} newsCategory='Home'> </News>} />

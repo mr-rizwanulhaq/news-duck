@@ -21,7 +21,7 @@ export default class App extends Component {
         <BrowserRouter basename='news-duck'>
         <NavBar></NavBar>
           <Routes>
-              <Route exact path="/" element={<News pageSize={this.pageSize} newsCategory='Home'> </News>} />
+              <Route path="/" element={<News pageSize={this.pageSize} newsCategory='Home'> </News>} />
               <Route exact path="/business" element={<News key="business" pageSize={this.pageSize} category='business' newsCategory='Business'> </News>} />
               <Route exact path="/entertainment" element={<News key='entertainment'pageSize={this.pageSize} category='entertainment' newsCategory='Entertainment'> </News>} />
               <Route exact path="/general" element={<News key='general'pageSize={this.pageSize} category='general' newsCategory='General'> </News>} />

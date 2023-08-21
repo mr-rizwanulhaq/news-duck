@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 601,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Paul Brown",
+            "title": "Noble cause: protecting England’s orchards to save a beetle",
+            "description": "The noble chafer beetle is in decline owing to the destruction of the habitat that its larvae need to thriveFew UK bugs are more exotic than the noble chafer beetle, Gnorimus nobilis. It is currently emerging from the larval stage after three years of chewing…",
+            "url": "https://www.theguardian.com/environment/2023/jun/07/noble-cause-protecting-englands-orchards-to-save-a-beetle",
+            "urlToImage": "https://i.guim.co.uk/img/media/3ee2ddca95748bc62546ea2d64a85c40e55553f5/0_59_1300_780/master/1300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e45915d0c14608798431b6bc72c98141",
+            "publishedAt": "2023-06-07T05:00:29Z",
+            "content": "Few UK bugs are more exotic than the noble chafer beetle, Gnorimus nobilis. It is currently emerging from the larval stage after three years of chewing the decaying wood of old fruit trees. The adult… [+1038 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "iOS 17 Photos App Recognizes Your Pets",
+            "description": "Apple in iOS 17 improved the image recognition capabilities of the iPhone, which means the Photos app is now able to recognize pets in addition to people.\n\n\n\n\n\nThe \"People\" album is now the \"People and Pets\" album, because the ‌Photos‌ app can detect animals,…",
+            "url": "https://www.macrumors.com/2023/06/06/ios-17-photos-recognizes-pets/",
+            "urlToImage": "https://images.macrumors.com/t/hN7kQAitacCupqskXcqxdiLg_Co=/2000x/article-new/2023/06/ios-17-pets-photos.jpg",
+            "publishedAt": "2023-06-07T00:01:30Z",
+            "content": "Apple in iOS 17 improved the image recognition capabilities of the iPhone, which means the Photos app is now able to recognize pets in addition to people.\r\nThe \"People\" album is now the \"People and P… [+1370 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "WWDC 2023 Rumor Report Card: The Biggest Hits and Misses",
+            "description": "Apple made a wide range of hardware and software announcements during its WWDC keynote on Monday, introducing its long-awaited AR/VR headset Vision Pro, new Macs, iOS 17, macOS Sonoma, and much more. As always, there were many rumors leading up to the event t…",
+            "url": "https://www.macrumors.com/2023/06/06/wwdc-2023-rumor-report-card/",
+            "urlToImage": "https://images.macrumors.com/t/BlCysMa2Ata1Kx0pYxinBZxjAQE=/1960x/article-new/2023/06/WWDC-2023-Rumor-Report-Card.jpg",
+            "publishedAt": "2023-06-07T00:39:31Z",
+            "content": "Apple made a wide range of hardware and software announcements during its WWDC keynote on Monday, introducing its long-awaited AR/VR headset Vision Pro, new Macs, iOS 17, macOS Sonoma, and much more.… [+2899 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hipertextual"
+            },
+            "author": "Eduardo Arcos",
+            "title": "Apple Vision Pro, primeras impresiones: cómo puede cambiarlo todo",
+            "description": "Tim Cook decía que la WWDC 2023 sería histórica. Y vaya que lo ha sido. Al menos para la compañía que, por primera vez en años, entran a un nuevo mercado con un nuevo producto. Las Apple Vision Pro son las esperadas gafas de realidad mixta con las que la comp…",
+            "url": "http://hipertextual.com/2023/06/apple-vision-pro-primeras-impresiones",
+            "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2023/06/DSC06315-scaled.jpg",
+            "publishedAt": "2023-06-07T00:11:03Z",
+            "content": "Tim Cook decía que la WWDC 2023 sería histórica. Y vaya que lo ha sido. Al menos para la compañía que, por primera vez en años, entran a un nuevo mercado con un nuevo producto. Las Apple Vision Proso… [+7295 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Danlark.org"
+            },
+            "author": null,
+            "title": "“csinc”, the AArch64 instruction you didn’t know you wanted",
+            "description": "After a long time of not publishing anything and being passive about doing any writing in this blog, I am coming back for … however many articles I can. Today I want to talk about an underrat…",
+            "url": "https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/",
+            "urlToImage": "https://danlarkorg.files.wordpress.com/2023/06/image-3.png",
+            "publishedAt": "2023-06-07T05:41:59Z",
+            "content": "After a long time of not publishing anything and being passive about doing any writing in this blog, I am coming back for … however many articles I can. Today I want to talk about an underrated featu… [+4496 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Micahlerner.com"
+            },
+            "author": null,
+            "title": "TelaMalloc: Efficient On-Chip Memory Allocation for Production ML Accelerators",
+            "description": "Comments",
+            "url": "https://www.micahlerner.com/2023/04/16/telamalloc-efficient-on-chip-memory-allocation-for-production-machine-learning-accelerators.html",
+            "urlToImage": null,
+            "publishedAt": "2023-06-07T00:19:19Z",
+            "content": "This is one in a series of papers Im reading from ASPLOS. These paper reviews can be delivered weekly to your inbox, or you can subscribe to the Atom feed. As always, feel free to reach out on Twitte… [+10123 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gigazine.net"
+            },
+            "author": "@GIGAZINE",
+            "title": "AppleのARヘッドセット「Vision Pro」開発者が語る「ユーザーの脳と体から心を読む技術」とは？",
+            "description": "AppleのMRヘッドセット「Vision Pro」が2023年6月6日(日本時間)に開催されたAppleの開発者向けカンファレンス「WWDC23」で、発表されました。このVision Proの開発に携わった開発者のスターリング・クリスピン氏がTwitterでVision Proについてコメントをつぶやいて話題となっています。続きを読む...",
+            "url": "https://gigazine.net/news/20230607-vision-pro-developer-comment/",
+            "urlToImage": "https://i.gzn.jp/img/2023/06/07/vision-pro-developer-comment/00.jpg",
+            "publishedAt": "2023-06-07T07:00:00Z",
+            "content": "AppleMRVision Pro202366()AppleWWDC23Vision ProTwitterVision Pro\r\nI spent 10% of my life contributing to the development of the #VisionPro while I worked at Apple as a Neurotechnology Prototyping Rese… [+670 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Frank Schräer",
+            "title": "Mittwoch: OpenAI geht nicht an die Börse, Milliarden für französische Chipfabrik",
+            "description": "Kein Börsengang für OpenAI + Globalfoundries-Fab in Frankreich + Nord-Stream-Sabotage vorab bekannt + Rushkoff-Tipps für Superreiche + Analyse der Apple-Brille",
+            "url": "https://www.heise.de/news/Mittwoch-OpenAI-geht-nicht-an-die-Boerse-Milliarden-fuer-franzoesische-Chipfabrik-9179754.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/5/1/3/9/3/mittwoch-04714b549118839a.webp",
+            "publishedAt": "2023-06-07T04:30:00Z",
+            "content": "Laut OpenAI-Chef Sam Altman würden Teilhaber manche Entscheidungen bei der Entwicklung einer Superintelligenz skeptisch sehen, sollte die KI-Firma an die Börse gehen. Deshalb hält er nichts davon. Au… [+4021 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Malte Kirchner",
+            "title": "Apple Vision Pro im Hands-on: Warum ich mich sehr wohl Illusionen hingeben würde",
+            "description": "Apples erster räumlicher Computer lässt digitale und reale Welt miteinander verschmelzen. Ein erstes Hands-on mit der neuen Produktkategorie.",
+            "url": "https://www.heise.de/tests/Apple-Vision-Pro-im-Hands-on-Warum-ich-mich-sehr-wohl-Illusionen-hingeben-wuerde-9179768.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/5/1/4/0/0/IMG_5163-09291bbeb4f136e2.jpg",
+            "publishedAt": "2023-06-07T05:51:00Z",
+            "content": "Inhaltsverzeichnis\r\nFasziniert, aber im ersten Moment auch etwas ratlos über die Bewertung: Dies waren meine ersten Gedanken zur Apple Vision Pro, dem ersten Mixed-Reality-Headset des iPhone-Herstell… [+10531 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Andreas Müller, Tobias Glemser",
+            "title": "heise+ | Security: Wie der Cyberrisiko-Check kleine Unternehmen schützen soll",
+            "description": "KKUs haben oft weder Mittel noch Personal, um sich vor Cyberangriffen zu schützen.Ein Standard soll ihnen zu Risikoeinschätzungen und Schutzmaßnahmen verhelfen.",
+            "url": "https://www.heise.de/hintergrund/Security-Wie-der-Cyberrisiko-Check-kleine-Unternehmen-schuetzen-soll-9162982.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/4/2/8/1/7/cyberrisiko_check_kmu-5178beb50015cf1b.png",
+            "publishedAt": "2023-06-07T05:30:00Z",
+            "content": "Inhaltsverzeichnis\r\nVor allem kleine Unternehmen verfügen oft über zu geringe Ressourcen, um sich intensiv mit Informationssicherheit zu befassen. Den Geschäftsführern ist zwar bewusst, dass auch ihr… [+3035 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "Apple Podcasts has a slightly refreshed interface in iOS 17",
+            "description": "Unlike watchOS 10, which has a completely new interface, iOS 17 has kept the same design language as previous versions of iOS. But even without major changes, Apple has slightly refreshed the interface of an important native app: Podcasts. With the update, th…",
+            "url": "https://9to5mac.com/2023/06/06/apple-podcasts-ios-17/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/Apple-Podcasts-iOS-16.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-06-07T03:08:48Z",
+            "content": "Unlike watchOS 10, which has a completely new interface, iOS 17 has kept the same design language as previous versions of iOS. But even without major changes, Apple has slightly refreshed the interfa… [+1900 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Filipe Espósito",
+            "title": "macOS Sonoma lets developers port Windows games to the Mac, here’s how it works",
+            "description": "One of the new features in macOS Sonoma is Game Mode, which Apple claims improves gaming performance on Apple Silicon Macs. But there’s something else Apple has been doing to turn the Mac into a gaming platform, and that includes allowing developers to easily…",
+            "url": "https://9to5mac.com/2023/06/06/macos-sonoma-port-windows-games-mac/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/Screenshot-2023-06-05-at-1.48.09-PM.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-06-07T00:21:46Z",
+            "content": "One of the new features in macOS Sonoma is Game Mode, which Apple claims improves gaming performance on Apple Silicon Macs. But there’s something else Apple has been doing to turn the Mac into a gami… [+3015 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Zac Hall",
+            "title": "1Password passkey support for the web launches in public beta on the Mac",
+            "description": "More pieces are coming into place for the gradual transition from passwords to passkeys. Apple already supports passkeys with iCloud Keychain, and now 1Password is launching support on the web for its browser extensions.\n more…\nThe post 1Password passkey supp…",
+            "url": "https://9to5mac.com/2023/06/06/1password-passkey-browser-extension/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/passkey-1password-web-extension.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-06-07T03:53:26Z",
+            "content": "More pieces are coming into place for the gradual transition from passwords to passkeys. Apple already supports passkeys with iCloud Keychain, and now 1Password is launching support on the web for it… [+1090 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Wesley Hilliard)",
+            "title": "iPadOS 17 feature roundup: Interactive widgets, custom Lock Screen, Health app, more",
+            "description": "Apple didn't spend much time on iPadOS 17, but there are several new features coming to the platform, plus almost everything from iOS 17 is included too. Here's everything coming in iPadOS 17.iPadOS 17 has several new featuresThe WWDC keynote spent a lot of t…",
+            "url": "https://appleinsider.com/articles/23/06/07/ipados-17-feature-roundup-interactive-widgets-custom-lock-screen-health-app-more",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/54820-110976-iPadOS-17-xl.jpg",
+            "publishedAt": "2023-06-07T01:43:17Z",
+            "content": "iPadOS 17 has several new features\r\nApple didn't spend much time on iPadOS 17, but there are several new features coming to the platform, plus almost everything from iOS 17 is included too. Here's ev… [+2420 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Elespanol.com"
+            },
+            "author": null,
+            "title": "Probamos el reloj Android del momento, el TicWatch 5 Pro: adiós el mito de la mala batería en Wear OS",
+            "description": "Analizamos una de las mejores propuestas para los usuarios de España que buscan un reloj con el sistema operativo de Google y buena autonomía.",
+            "url": "https://www.elespanol.com/elandroidelibre/moviles-android/analisis/20230607/probamos-android-momento-ticwatch-pro-bateria-wear/767673589_0.html",
+            "urlToImage": "https://s1.eestatic.com/2023/06/06/elandroidelibre/moviles-android/analisis/769433207_233752590_1200x630.jpg",
+            "publishedAt": "2023-06-07T00:32:25Z",
+            "content": "El mercado de los relojes y pulseras inteligentes cada vez es mayor, aunque son Apple, Xiaomi y Samsung las que más éxito tienen dentro de las marcas que también hacen móviles, y Amazfit como jugador… [+12896 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "amito",
+            "title": "Vision Proを先行体験。「ここが気になる」28個とその答え #WWDC23",
+            "description": "Photo:amitoWWDC23で発表されたAppleの空間コンピュータ「VisionPro」。誤解を恐れずに言えばVR/ARヘッドセットにくくれると思いますが、空間コンピュータと称する理由がわかっちゃったのでそう呼ばせてください。そんな「VisionPro」を先行体験させてもらってきました。そして、語彙力を失い、用意していた質問リストの内容も頭から飛びました。感動した。本当にすごい。これから何",
+            "url": "https://www.gizmodo.jp/2023/06/apple-vision-pro-experienced-wwdc23.html",
+            "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/06/07/DSCF1331-1.jpeg?w=1280&h=630&f=jpg",
+            "publishedAt": "2023-06-07T02:48:00Z",
+            "content": "WWDC23AppleVision ProVR/AR\r\nVision Pro\r\n2\r\nVision Pro\r\nVision Pro\r\n1. \r\nFace ID\r\n2. \r\n3603D\r\nVision Pro\r\nQ1. \r\nApple Watch\r\nQ2. \r\n30\r\nQ3. \r\nQ4. \r\nQ5. \r\nDigital Crown\r\nQ6. \r\n66\r\nQ7. \r\nKeynote30\r\nQ8. \r… [+314 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "satomi",
+            "title": "#WWDC23 でAppleが意地でも口にしなかった言葉があります。なんでしょう？",
+            "description": "ニアミスはあったけど…Image:AppleWWDC基調講演。2時間たっぷりの発表ステージで、ただの一度も口にされなかった旬ワードがあります。3月のBuild基調講演ではMicrosoftのサティア・ナデラCEOが100回ぐらい叫んで、5月のI/O基調講演ではGoogleのサンダー・ピチャイCEOがその倍ぐらい叫び、先週のComputex2023基調講演ではNvidiaのジェンスン・フアンCEOが",
+            "url": "https://www.gizmodo.jp/2023/06/the-word-apple-never-said-wwdc23.html",
+            "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/06/07/20230606WWDC23quiz.png?w=1280&h=630&f=jpg",
+            "publishedAt": "2023-06-07T02:00:00Z",
+            "content": "WWDC2\r\n3BuildMicrosoftCEO1005I/OGoogleCEOComputex2023NvidiaCEO21000Apple1\r\n 12\r\nAI\r\nAIAIMachine LearningML7ChatGPTDALL-EGoogleTransformer\r\nGoogle I/OCNET140\r\nPretty sure Google is focusing on AI at t… [+281 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Jesús Quesada",
+            "title": "Este rápido SSD portátil de marca es un chollo rebajado a menos de 40 euros",
+            "description": "Si estabas buscando un SSD portátil a buen precio para copias de seguridad de tu Mac o transferir archivos a alta velocidad, este SSD portátil Philips de 500 GB está rebajado en Amazon a su precio mínimo histórico de 39,90 euros. También está a la venta en Ca…",
+            "url": "https://www.applesfera.com/seleccion/este-rapido-ssd-portatil-marca-chollo-rebajado-a-40-euros",
+            "urlToImage": "https://i.blogs.es/9dc9c1/ssd-portatil-philips/840_560.jpeg",
+            "publishedAt": "2023-06-07T07:32:15Z",
+            "content": "Si estabas buscando un SSD portátil a buen precio para copias de seguridad de tu Mac o transferir archivos a alta velocidad, este SSD portátil Philips de 500 GB está rebajado en Amazon a su precio mí… [+2363 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MakeUseOf"
+            },
+            "author": "Jowi Morales",
+            "title": "Will the 15-Inch MacBook Air Draw Windows Users to Apple?",
+            "description": "Apple is targeting Windows laptop users with its bigger 15-inch MacBook Air.",
+            "url": "https://www.makeuseof.com/will-15-inch-macbook-air-draw-windows-users/",
+            "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/person-using-a-15-inch-macbook-air-with-friends.jpg",
+            "publishedAt": "2023-06-07T00:59:11Z",
+            "content": "Apple launched a bigger 15-inch MacBook Air at WWDC 2023. This new MacBook is practically just an enlarged version of the 13-inch M2 MacBook Air, with a bigger battery and two more speakers.\r\nBut wha… [+4797 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MakeUseOf"
+            },
+            "author": "Abhijith N Arjunan",
+            "title": "Mac Studio vs. Mac Pro: Which One Should You Buy?",
+            "description": "The Mac Studio and the Mac Pro are two of the highest-end Macs you can buy, but which offers more value? We'll help you decide.",
+            "url": "https://www.makeuseof.com/mac-studio-vs-mac-pro/",
+            "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/mac-studio-and-mac-pro-next-to-each-other.jpg",
+            "publishedAt": "2023-06-07T05:34:26Z",
+            "content": "Apple finally announced the M2 Ultra-powered Mac Pro at WWDC 2023 and completed the transition of its entire Mac lineup to Apple silicon chips. The eventful keynote of WWDC 2023 also saw the upgraded… [+5488 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MakeUseOf"
+            },
+            "author": "Will Graf",
+            "title": "15-Inch MacBook Air vs. 13-Inch M1 MacBook Air: Should You Upgrade?",
+            "description": "Whether you're in the market for an entry-level MacBook or you already own an M1 MacBook Air, the 15-inch MacBook Air is worth considering.",
+            "url": "https://www.makeuseof.com/15-inch-macbook-air-vs-m1-macbook-air/",
+            "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/person-using-a-15-inch-macbook-air-with-friends.jpg",
+            "publishedAt": "2023-06-07T02:55:10Z",
+            "content": "Apple released a bigger 15-inch MacBook Air at its WWDC 2023 event. While the M1 MacBook Air can still hold up against Apple's current lineup, the 15-inch MacBook Air can be a compelling machine to p… [+5526 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Thomas Claburn",
+            "title": "Google snubbed JPEG XL so of course Apple now supports it in Safari",
+            "description": "Chocolate Factory under pressure to reverse decision to abandon image format\nApple is now supporting JPEG XL – a novel royalty-free image codec that Google last year controversially abandoned – in its Safari browser.…",
+            "url": "https://www.theregister.com/2023/06/07/apple_safari_jpeg_xl/",
+            "urlToImage": "https://regmedia.co.uk/2023/06/06/shutterstock_apple_safari.jpg",
+            "publishedAt": "2023-06-07T07:27:13Z",
+            "content": "Apple is now supporting JPEG XL a novel royalty-free image codec that Google last year controversially abandoned in its Safari browser.\r\nThe Safari 17 Beta Release Notes reveal that support for JPEG … [+4298 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron"
+            },
+            "author": "Jean-Yves Alric",
+            "title": "Comment Apple veut devenir votre coach de sport",
+            "description": "L’application Fitness+ s’enrichit de nouvelles fonctionnalités très bienvenues.",
+            "url": "https://www.presse-citron.net/comment-apple-veut-devenir-votre-coach-de-sport/",
+            "urlToImage": "https://www.presse-citron.net/app/uploads/2020/09/apple-fitness-.jpg",
+            "publishedAt": "2023-06-07T08:00:54Z",
+            "content": "<ul><li>La mise à jour vers iOS 17 apporte quelques nouveautés très bien senties pour les utilisateurs de Fitness+</li><li>Ils pourront notamment personnaliser leurs entraînements en fonction de leur… [+2472 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The A.V. Club"
+            },
+            "author": "Matt Schimkowitz",
+            "title": "Cristo Fernández wants to know more about Danny Rojas’ 108-year-old bestie on Ted Lasso",
+            "description": "Ted Lasso is over. Well, we think Ted Lasso is over. The AppleTV+ soccer dramedy currently exists in limbo, stuck between launching a spin-off and closing the book on Lassoverse forever. But one person that would love to keep digging around the nooks and cran…",
+            "url": "https://www.avclub.com/cristo-fernandez-wants-to-explore-danny-rojas-backstor-1850512994",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d839a42447e14cf6ae528e1f836a54b3.png",
+            "publishedAt": "2023-06-07T01:02:00Z",
+            "content": "Ted Lasso is over. Well, we think Ted Lasso is over. The AppleTV+ soccer dramedy currently exists in limbo, stuck between launching a spin-off and closing the book on Lassoverse forever. But one pers… [+1647 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Golem.de"
+            },
+            "author": "Tobias Költzsch",
+            "title": "iOS, MacOS etc.: Apple gibt Entwickler-Betas kostenlos frei",
+            "description": "Die Entwickler-Betaversionen von iOS 17, iPadOS 17 und MacOS Sonoma können nicht mehr nur von Entwicklern mit Bezahlkonto heruntergeladen werden. (Apple, Mac OS X)",
+            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fios-macos-etc-apple-gibt-entwickler-betas-kostenlos-frei-2306-174746.html&referer=https%3A%2F%2Ft.co%2F65af68c558",
+            "urlToImage": null,
+            "publishedAt": "2023-06-07T07:41:02Z",
+            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Golem.de"
+            },
+            "author": "Ingo Pakalski",
+            "title": "EAH-AZ80 im Test: Technics zeigt Apple und Bose, was tolle Hörstöpsel ausmacht",
+            "description": "Die EAH-AZ80 von Technics sind nah dran am perfekten Hörstöpsel. Nur eine Sache stört uns - mit der man sich aber arrangieren kann. Ein Test von Ingo Pakalski (Bluetooth-Hörstöpsel, Bluetooth)",
+            "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Feah-az80-im-test-technics-zeigt-apple-und-bose-was-tolle-hoerstoepsel-ausmacht-2306-174679.html&referer=https%3A%2F%2Ft.co%2Faaa98b9237",
+            "urlToImage": null,
+            "publishedAt": "2023-06-07T06:36:02Z",
+            "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron"
+            },
+            "author": "Romain Vitt",
+            "title": "Pourquoi acheter un smartphone pas cher n’est pas forcément plus économique (3 raisons)",
+            "description": "Acheter un smartphone pas cher peut sembler plus intéressant à première vue pour vos finances. Et pourtant...",
+            "url": "https://www.presse-citron.net/pourquoi-acheter-un-smartphone-pas-cher-nest-pas-forcement-plus-economique-3-raisons/",
+            "urlToImage": "https://www.presse-citron.net/app/uploads/2023/05/comparatif-iphone-se-2022.jpg",
+            "publishedAt": "2023-06-07T06:00:41Z",
+            "content": "Les matériaux sont plus fragiles\r\nLe temps des smartphones en plastique qui craque est révolu. Les smartphones abordables se sont beaucoup améliorés en quelques années dans leur conception, mais les … [+3424 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "HYPEBEAST"
+            },
+            "author": "info@hypebeast.com (Hypebeast)",
+            "title": "A Lionel Messi Documentary Is Coming to Apple TV+",
+            "description": "A documentary focusing on Lionel Messi is officially in the works over at Apple TV+ from SMUGGLER Entertainment.The four-part documentary series was filmed in Paris, Qatar and Argentina and follows Messi's five FIFA World Cup appearances and his FIFA World Cu…",
+            "url": "https://hypebeast.com/2023/6/apple-tv-plus-lionel-messi-documentary-announcement",
+            "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F06%2Fapple-tv-plus-lionel-messi-documentary-announcement-tw.jpg?w=960&cbr=1&q=90&fit=max",
+            "publishedAt": "2023-06-07T07:04:55Z",
+            "content": "A documentary focusing on Lionel Messi is officially in the works over at Apple TV+ from SMUGGLER Entertainment.\r\nThe four-part documentary series was filmed in Paris, Qatar and Argentina and follows… [+1309 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Espinof.com"
+            },
+            "author": "Albertini",
+            "title": "Estrenos (7 de junio): 46 series, películas y documentales en Netflix, Amazon, HBO Max, Disney+, Movistar Plus+, Filmin, Apple TV+",
+            "description": "Primer miércoles de junio y ya está empezando a oler a veranito pero en lo que planificamos las vacaciones seguro que tenemos un momento para encender la tele o nuestro dispositivo favorito y disfrutar de algún buen estreno de streaming. En esta ocasión vamos…",
+            "url": "https://www.espinof.com/estrenos/estrenos-7-junio-series-peliculas-documentales-netflix-amazon-hbo-max-disney-plus-movistar-plus-filmin-apple-tv",
+            "urlToImage": "https://i.blogs.es/8b6255/30avatar-tulkun-1-ac01-videosixteenbynine3000/840_560.jpeg",
+            "publishedAt": "2023-06-07T07:01:10Z",
+            "content": "Primer miércoles de junio y ya está empezando a oler a veranito pero en lo que planificamos las vacaciones seguro que tenemos un momento para encender la tele o nuestro dispositivo favorito y disfrut… [+3645 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Jason Cipriani （Special to ZDNET.com） 翻訳校正： 編集部",
+            "title": "アップルの「Vision Pro」、矯正レンズはZEISS製--気になる価格を予想",
+            "description": "アップルのMRヘッドセット「Vision Pro」は、ZEISS製の矯正レンズも別売で提供される。価格は発表されておらず、非常に気になるところだ。",
+            "url": "https://japan.cnet.com/article/35204865/",
+            "urlToImage": "https://japan.cnet.com/storage/2023/06/07/025e13621316a3f9742ab779cdd3a32b/t/640/480/d/dsc09850_1280x960.jpg",
+            "publishedAt": "2023-06-07T02:28:00Z",
+            "content": "AppleVision ProMR3D3FaceTime\r\nmicro-OLED2300AppleM2R113499493499\r\nAppleVision Pro1AppleVision Pro\r\nVision ProZEISS\r\nApple\r\nAppleVision Pro2023\r\n5007SnapSpectacles 30042000\r\nVision Pro4000557000\r\nRed … [+7 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Les Numériques"
+            },
+            "author": "Rick",
+            "title": "Actualité : Bon plan – La tablette Tactile Apple iPad Air 5 \"5 étoiles\" à 673,90 €",
+            "description": "La tablette Tactile Apple iPad Air 5 passe sous les 700 € chez E. Leclerc - High-Tech.",
+            "url": "https://www.lesnumeriques.com/tablette-tactile/bon-plan-la-tablette-tactile-apple-ipad-air-5-5-etoiles-a-673-90-n210350.html",
+            "urlToImage": "https://cdn.lesnumeriques.com/optim/test/17/178245/64b3790d-apple-ipad-air-5-la-puissance-du-m1-dans-un-modele-de-choix__1200_630__0-1-1276-670_wtmk.jpg",
+            "publishedAt": "2023-06-07T05:31:12Z",
+            "content": "Inchangé depuis fin 2020 l'Apple iPad Air se renouvelle enfin. Cette cinquième génération reprend beaucoup de l'ancienne, avec un changement de taille : comme l'iPad Pro, elle intègre désormais la pu… [+1516 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Caschys Blog"
+            },
+            "author": "Olli",
+            "title": "tvOS 17: Mit Apple Music Sing wird das Karaoke-Erlebnis besser",
+            "description": "Apple Music unterstützt nun schon seit einiger Zeit die Möglichkeit, für viele Lieder den Gesang entweder komplett oder nur zu einem bestimmten Maß auszublenden. Dann könnt ihr die Hauptrolle übernehmen und beim Singen des Liedtextes Vollgas geben. tvOS 17 wi…",
+            "url": "https://stadt-bremerhaven.de/tvos-17-mit-apple-music-sing-wird-das-karaoke-erlebnis-besser/",
+            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2023/06/Apple-WWDC23-tvOS-17-Apple-Sing-230605_big.jpg.medium_2x.jpg",
+            "publishedAt": "2023-06-07T06:00:12Z",
+            "content": "Apple Music unterstützt nun schon seit einiger Zeit die Möglichkeit, für viele Lieder den Gesang entweder komplett oder nur zu einem bestimmten Maß auszublenden. Dann könnt ihr die Hauptrolle überneh… [+835 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Caschys Blog"
+            },
+            "author": "caschy",
+            "title": "YouTube Music: Neue Apps und HomePod-Unterstützung",
+            "description": "Bei Google will man sich laut Bericht um YouTube Music kümmern. Laut einer Quelle, die mit der Angelegenheit vertraut sein soll, wird YouTube Music auf mehr Geräte kommen, wobei ein weiteres Ziel darin besteht, bestehende Integrationen bei Drittanbietern (wie…",
+            "url": "https://stadt-bremerhaven.de/youtube-music-neue-apps-und-homepod-unterstuetzung/",
+            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2018/09/YouTube-Music-Logo.jpg",
+            "publishedAt": "2023-06-07T05:02:48Z",
+            "content": "Bei Google will man sich laut Bericht um YouTube Music kümmern. Laut einer Quelle, die mit der Angelegenheit vertraut sein soll, wird YouTube Music auf mehr Geräte kommen, wobei ein weiteres Ziel dar… [+1288 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Caschys Blog"
+            },
+            "author": "caschy",
+            "title": "Microsoft To Do: Mehrere Accounts und Sperrbildschirm-Widgets für iOS",
+            "description": "Erst Ende Mai hat Microsoft seine Aufgaben-App „Microsoft To Do“ auf die Apple Watch gebracht (wir berichteten). Nun gleich das nächste Update auf der iOS-Plattform, welches sicherlich gerne gesehene Neuerungen mitbringt. So lässt sich die App jetzt mit mehre…",
+            "url": "https://stadt-bremerhaven.de/microsoft-to-do-mehrere-accounts-und-sperrbildschirm-widgets-fuer-ios/",
+            "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2023/06/microsoft-to-do-widget_.jpg",
+            "publishedAt": "2023-06-07T05:51:44Z",
+            "content": "Erst Ende Mai hat Microsoft seine Aufgaben-App Microsoft To Do auf die Apple Watch gebracht (wir berichteten). Nun gleich das nächste Update auf der iOS-Plattform, welches sicherlich gerne gesehene N… [+951 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Frandroid"
+            },
+            "author": "Cassim Ketfi",
+            "title": "Comment macOS Sonoma va faciliter l’arrivée de jeux Windows sur Mac",
+            "description": "Avec la prochaine version de macOS, Apple veut convaincre les développeurs de jeux sous Windows de porter leurs titres sur Mac.",
+            "url": "https://www.frandroid.com/?p=1711405",
+            "urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/06/apple-wwdc-macos-sonoma-gaming-1-resized-1200x675.jpeg",
+            "publishedAt": "2023-06-07T06:39:45Z",
+            "content": "Avec la prochaine version de macOS, Apple veut convaincre les développeurs de jeux sous Windows de porter leurs titres sur Mac.\r\nComme chaque année, Apple a profité de la WWDC pour dévoiler la nouvel… [+2447 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wwwhatsnew.com"
+            },
+            "author": "Miriam Schuager",
+            "title": "Apple ahora permite descargar las betas para desarrolladores de forma gratuita",
+            "description": "Apple está cambiando la forma de acceder a las betas para desarrolladores. Un nuevo sistema que te ahorrará algunos dólares, y que te facilitará instalarlas para probar tus aplicaciones. Este es uno de los tantos cambios que anunció Apple en su pasado evento,…",
+            "url": "https://wwwhatsnew.com/2023/06/07/apple-ahora-permite-descargar-las-betas-para-desarrolladores-de-forma-gratuita/",
+            "urlToImage": "https://wwwhatsnew.com/wp-content/uploads/2023/06/betas-Apple.jpg",
+            "publishedAt": "2023-06-07T02:00:52Z",
+            "content": "Apple está cambiando la forma de acceder a las betas para desarrolladores. Un nuevo sistema que te ahorrará algunos dólares, y que te facilitará instalarlas para probar tus aplicaciones.\r\nEste es uno… [+2446 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Wwwhatsnew.com"
+            },
+            "author": "Fco. José Hidalgo",
+            "title": "El gestor de contraseñas 1Password estrena soporte para las claves de paso en fase beta",
+            "description": "1Password es uno de los mejores gestores de contraseñas que se pueden usar en la actualidad, y desde hoy, los usuarios también podrán hacer uso de las clave de paso para autenticarse en aplicaciones y servicios en la web de forma rápida y segura sin necesidad…",
+            "url": "https://wwwhatsnew.com/2023/06/07/el-gestor-de-contrasenas-1password-estrena-soporte-para-las-claves-de-paso/",
+            "urlToImage": "https://wwwhatsnew.com/wp-content/uploads/2023/06/1password.jpg",
+            "publishedAt": "2023-06-07T00:00:17Z",
+            "content": "1Password es uno de los mejores gestores de contraseñas que se pueden usar en la actualidad, y desde hoy, los usuarios también podrán hacer uso de las clave de paso para autenticarse en aplicaciones … [+2681 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Srad.jp"
+            },
+            "author": "nagazou",
+            "title": "M2 Ultra 搭載の新 Mac Pro 発表、Mac の Apple シリコン移行が完了",
+            "description": "headless 曰く、Apple は日本時間 6 日、新 SoC の M2 Ultra と M2 Ultra を搭載する新しい Mac Studio と Mac Pro を発表した\n(プレスリリース: M2 Ultra、\nMac Studio / Mac Pro、\n製品情報: Mac Studio、\nMac Pro)。\n\nM2 Ultra は M2 ファミリーの総仕上げとなる SoC であり、M2 Max チップのダイを 2 つ接続することで 2 倍のパフォーマンスを実現し、最大 192GB のユニファイドメモ…",
+            "url": "https://apple.srad.jp/story/23/06/06/137229/",
+            "urlToImage": "https://srad.jp/static/topics/macosx_64.png",
+            "publishedAt": "2023-06-07T03:00:00Z",
+            "content": "Apple 6 SoC M2 Ultra M2 Ultra Mac Studio Mac Pro \r\n(: M2 UltraMac Studio / Mac Pro\r\n: Mac StudioMac Pro)\r\nM2 Ultra M2 SoC M2 Max 2 2 192GB Mac Studio M2 Max M2 Ultra M1 Ultra Mac Studio 3 Mac Pro 2 2… [+199 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Sankalp Phartiyal",
+            "title": "Google Bets On Local Languages to Fuel Android’s Growth in India",
+            "description": "(Bloomberg) -- Google is adding more Indian languages to its services and seeking ways to make its Android smartphones cheaper, eager to win more users in...",
+            "url": "https://finance.yahoo.com/news/google-bets-local-languages-fuel-005935350.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/vcVW580q7GcNT4B3zKW37g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_technology_68/979579fbb69b79534ffd2d2bb63125b6",
+            "publishedAt": "2023-06-07T00:59:35Z",
+            "content": "(Bloomberg) -- Google is adding more Indian languages to its services and seeking ways to make its Android smartphones cheaper, eager to win more users in the worlds most populous country.\r\nMost Read… [+1531 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacStories"
+            },
+            "author": "Federico Viticci",
+            "title": "With iPadOS 17, Stage Manager Is (Finally) Moving in the Right Direction",
+            "description": "I’m in Cupertino for WWDC this week, and after yesterday’s whirlwind of announcements and surprises, I had some time to sit down with my 12.9” iPad Pro, install iPadOS 17 beta 1 on it, and try the improved version of Stage Manager. As you know, I have a…compl…",
+            "url": "https://www.macstories.net/stories/with-ipados-17-stage-manager-is-finally-moving-in-the-right-direction/",
+            "urlToImage": "https://cdn.macstories.net/tuesday-06-jun-2023-18-41-58-1686102120516.png",
+            "publishedAt": "2023-06-07T02:03:54Z",
+            "content": "I’m in Cupertino for WWDC this week, and after yesterday’s whirlwind of announcements and surprises, I had some time to sit down with my 12.9” iPad Pro, install iPadOS 17 beta 1 on it, and try the im… [+7465 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Alfalfalfa.com"
+            },
+            "author": "amosaic",
+            "title": "素人による医療デマや怪しげな民間療法がなくならない理由がわかった。 【HotTweets】",
+            "description": "この記事はネットで話題になっているネタを羅列して紹介している記事です。\n\n1：まことぴ 2023/06/06 11:33:01 ID:makotopic\n素人による医療デマや怪しげな民間療法がなくならない理由がわかった。 — まことぴ (@makotopic) 2023年06月06日\n\n\n\n\n\n関連記事\n\ndocumen...",
+            "url": "https://alfalfalfa.com/articles/10367347.html",
+            "urlToImage": "https://alfalfalfa.com/img/pickup_article.jpg",
+            "publishedAt": "2023-06-07T08:00:30Z",
+            "content": "Apple\r\nVision Pro\r\n3499$50\r\niOS17Mac ProiPhone\r\nL.S.H (@LSH__Official) 20230606"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digiday"
+            },
+            "author": "Seb Joseph",
+            "title": "‘A gold rush moment’: Apple’s Reality Pro revives marketers’ AR ambitions",
+            "description": "It adds a whole new meaning to the term “second screen.\"",
+            "url": "http://digiday.com/marketing/a-gold-rush-moment-apples-reality-pro-revives-marketers-ar-ambitions/",
+            "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2023/01/sunrise-metaverse-digiday.jpg",
+            "publishedAt": "2023-06-07T04:01:00Z",
+            "content": "In classic Apple phenomenon style, the tech giant has managed to whip marketers into a frenzy over what seems to be an experimental product with a jaw-dropping price tag of $3,500. They know the tech… [+6438 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digiday"
+            },
+            "author": "Ronan Shields",
+            "title": "The Trade Desk launches slew of updates in its quest to wrest ad dollars from Walled Gardens",
+            "description": "CEO Jeff Green announced a series of overhauls to The Trade Desk's platform to loosen the vice-like grip the industry's Walled Gardens have over advertisers' budgets.",
+            "url": "http://digiday.com/media-buying/the-trade-desk-launches-slew-of-updates-in-its-quest-to-wrest-ad-dollars-from-walled-gardens/",
+            "urlToImage": "https://digiday.com/wp-content/uploads/sites/3/2021/08/AdobeStock_134173740-1.jpeg",
+            "publishedAt": "2023-06-07T04:01:00Z",
+            "content": "The Trade Desk yesterday unveiled a host of changes to its platform at an event hosted in New York City where company CEO Jeff Green showcased a series of updates to its platform, principally Kokai.D… [+3452 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "La Vanguardia"
+            },
+            "author": "Sergio Agudo",
+            "title": "iOS 17 tiene más de Android de lo que imaginas: 5 funciones \"robadas\" a Google",
+            "description": "Android e iOS han recorrido un largo camino desde que se lanzaron a finales de la primera década del siglo XXI y de la década de 2010, respectivamente. En todos estos años ambos han recibidio una gran dosis de refinamiento que los han conducido hasta donde es…",
+            "url": "https://www.lavanguardia.com/andro4all/apple/ios-17-tiene-mas-de-android-de-lo-que-imaginas-5-funciones-robadas-a-google",
+            "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/06/apple-presenta-ios-17.webp?width=1200",
+            "publishedAt": "2023-06-07T07:01:58Z",
+            "content": "iOS 17.\r\nAndroid e iOS han recorrido un largo camino desde que se lanzaron a finales de la primera década del siglo XXI y de la década de 2010, respectivamente. En todos estos años ambos han recibidi… [+3434 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "La Vanguardia"
+            },
+            "author": "JuanMi Guirado",
+            "title": "La experiencia de audio definitiva ahora al alcance de tu bolsillo con los OnePlus Buds Pro",
+            "description": "El precio de salida de los OnePlus Buds Pro fue de 149 euros en su día, pero hoy pueden ser tuyos por solo 85 euros en Amazon y . Aprovecha estas ofertas exclusivas y llévate a casa uno de los mejores auriculares de alta gama del mercado actual, a pesar de qu…",
+            "url": "https://www.lavanguardia.com/andro4all/ofertas/la-experiencia-de-audio-definitiva-ahora-al-alcance-de-tu-bolsillo-con-los-oneplus-buds-pro",
+            "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/06/oneplus-buds-pro-chica-blancos.jpg?width=1200",
+            "publishedAt": "2023-06-07T06:30:33Z",
+            "content": "La cancelación activa de ruido de los OnePlus Buds Pro es simplemente asombrosa. Puedes sumergirte por completo en tu música y olvidarte del mundo exterior.\r\nEl precio de salida de los OnePlus Buds P… [+3634 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Clubic"
+            },
+            "author": "Stéphane Ficca",
+            "title": "Le nouveau MacBook Air M2 a droit à un nouveau chargeur !",
+            "description": "En toute discrétion, Apple lance un nouveau chargeur secteur USB-C à destination de ses MacBook.",
+            "url": "https://www.clubic.com/pc-portable/actualite-473136-le-nouveau-macbook-air-m2-a-droit-a-un-nouveau-chargeur.html",
+            "urlToImage": "https://pic.clubic.com/v1/images/2113584/raw",
+            "publishedAt": "2023-06-07T07:00:00Z",
+            "content": "En effet, le nouvel adaptateur secteur USB-C 70 watts est en réalité compatible avec de nombreux appareils USB-C. Apple recommande d'associer ce dernier avec un MacBook Air 13 pouces ou 15 pouces ave… [+506 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Clubic"
+            },
+            "author": "/auteur/435084-maxence-glineur.html",
+            "title": "Lenovo prépare le lancement d'une alternative à l'Apple Vison Pro... moins chère",
+            "description": "Passé plutôt inaperçu lors de son annonce en octobre dernier, l'appareil a pourtant tout pour plaire, à un détail près.",
+            "url": "https://www.clubic.com/pro/entreprises/lenovo/actualite-473238-lenovo-prepare-le-lancement-d-une-alternative-a-l-apple-vison-pro-moins-chere.html",
+            "urlToImage": "https://pic.clubic.com/v1/images/2115420/raw",
+            "publishedAt": "2023-06-07T06:32:00Z",
+            "content": "Lenovo n'en est pas à sa première incursion dans la réalité virtuelle. Si certains se souviennent du Lenovo Explorer, destiné au grand public, l'entreprise s'est surtout concentrée sur le milieu prof… [+919 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Appbank.net"
+            },
+            "author": "テクノロジー記事班",
+            "title": "15インチの新型「MacBook Air」13インチモデルとの違いを徹底比較",
+            "description": "M2搭載「MacBook Air」に、新たに15インチモデルが登場しました。このモデルと13インチモデルとの詳細な違いを、Apple専門の米メディア「MacRumors」がまとめています。 *Category:テクノロジ […]",
+            "url": "https://www.appbank.net/2023/06/07/technology/2484065.php",
+            "urlToImage": "https://www.appbank.net/wp-content/uploads/2023/06/2023-0607-MacBook-Air-thumb-1.jpeg",
+            "publishedAt": "2023-06-07T02:48:28Z",
+            "content": "M2MacBook Air1513AppleMacRumors\r\n*Category:\r\n Technology *SourceApple ,MacRumors\r\nMacBook Air1315Liquid RetinaM2Touch ID2Thunderbolt\r\n13MacBook Air13.61515.3\r\n13MacBook Air1.13×30.41×21.5cm151.15×34.… [+173 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Vivek Umashankar",
+            "title": "How to install iOS 17 developer beta on any eligible iPhone for free",
+            "description": "Anyone with an Apple ID can now download and install iOS 17 beta on eligible iPhone for free.",
+            "url": "https://indianexpress.com/article/technology/tech-news-technology/how-to-install-ios-17-developer-beta-on-any-iphone-8649991/",
+            "urlToImage": "https://images.indianexpress.com/2023/06/ios-17-8.jpg",
+            "publishedAt": "2023-06-07T06:37:13Z",
+            "content": "Rejoice, iPhone enthusiasts! You can now install the iOS 17 developer beta on any eligible iPhone for free. Until recently, one had to pay an annual fee of $99 to access the early builds of iOS, iPad… [+1577 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nextpit.de"
+            },
+            "author": "Antoine Engels",
+            "title": "[Meinung] Apple Vision Pro: Apples Mixed-Reality-Headset ist nicht so dystopisch wie gedacht",
+            "description": "Träumt Apple von einer Zukunft, in der wir alle in einer virtuellen Realität gefangen sind und von unseren Headsets verschlungen werden? Ich glaube nicht.(Dies ist ein Teaser - klick hier, um den kompletten Beitrag zu lesen)",
+            "url": "https://www.nextpit.de/apple-vision-pro-ist-nicht-so-dystopisch-wie-gedacht",
+            "urlToImage": "https://fscl01.fonpit.de/userfiles/7687254/image/NextPit_Apple_Vision_Pro_Antoine.jpg",
+            "publishedAt": "2023-06-07T04:30:00Z",
+            "content": "© nextpit\r\nIst die Apple Vision Pro, das erste Mixed-Reality-Headset des Apple-Konzerns, der Beginn einer dystopischen Zukunft? Werden wir alle in einer virtuellen Matrix gefangen sein, völlig verskl… [+9294 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "WELT",
+            "title": "„Ergibt keinen Sinn“ – Grüne kritisieren Lindners Sparvorgaben",
+            "description": "Finanzminister Christian Lindner hat im Bundeshaushalt 2024 Ausgabenlimits für die Bundesministerien vorgesehen – nur das Verteidigungsministerium bleibe davon ausgenommen. Die Grünen kritisieren dieses Vorhaben, denn in der Bundeswehr „versickere immer wiede…",
+            "url": "https://www.welt.de/politik/deutschland/article245729954/Bundeshaushalt-2024-Ergibt-keinen-Sinn-Gruene-kritisieren-Lindners-Sparvorgaben.html",
+            "urlToImage": "https://img.welt.de/img/newsticker/dpa_nt/infoline_nt/Politik__Inland_/mobile244234493/3791352637-ci16x9-w1200/Gruenen-Haushaltsexperte-Kindler.jpg",
+            "publishedAt": "2023-06-07T07:10:02Z",
+            "content": "Die Sparvorgaben von Finanzminister Christian Lindner (FDP) für die Bundesministerien im Bundeshaushalt 2024 stoßen bei den Grünen auf Widerstand. Ein Bundeshaushalt braucht am Ende die Zustimmung de… [+2180 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "WELT",
+            "title": "Selenskyj – Dammsprengung hält Offensive nicht auf",
+            "description": "Der ukrainische Präsident Wolodymyr Selenskyj bezeichnet die Zerstörung des Kachowska-Staudamms als „Massenvernichtungs-Umweltbombe“ und sieht Russland verantwortlich. Die Aktion werde die Ukraine aber nicht davon abhalten, ihr Territorium zurückzuerobern. Me…",
+            "url": "https://www.welt.de/politik/ausland/article245729364/Ukraine-News-Selenskyj-Russische-Dammsprengung-haelt-Offensive-nicht-auf.html",
+            "urlToImage": "https://img.welt.de/img/politik/ausland/mobile245729486/7041353887-ci16x9-w1200/Ukraine-Krieg-Kiew.jpg",
+            "publishedAt": "2023-06-07T04:00:13Z",
+            "content": "Die Ukraine wird sich laut Präsident Wolodymyr Selenskyj auch durch die Explosion des Staudamms am Dnipro im Süden des Landes nicht an der Rückeroberung besetzter Gebiete hindern lassen. Die von russ… [+5684 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tomshw.it"
+            },
+            "author": "Francesco Daghini",
+            "title": "Apple Vision Pro: cosa non ci ha convinto?",
+            "description": "Apple Vision Pro è il nuovo visore di realtà aumentata/virtuale di Apple: il potenziale è altissimo, ma non manca qualche stranezza.",
+            "url": "https://www.tomshw.it/smartphone/apple-vision-pro-cosa-non-ci-ha-convinto/",
+            "urlToImage": "https://www.tomshw.it/images/images/2023/06/apple-vision-pro-281133.jpg",
+            "publishedAt": "2023-06-07T06:00:05Z",
+            "content": "Apple Apple Vision Pro: cosa non ci ha convinto?\r\nTom's Hardware vive grazie al suo pubblico. Quando compri qualcosa dai nostri link, potremmo guadagnare una commissione. Scopri di più\r\nApple Apple V… [+7266 chars]"
+        },
+        {
+            "source": {
+                "id": "la-repubblica",
+                "name": "La Repubblica"
+            },
+            "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
+            "title": "Ted Lasso, l'allenatore che ha conquistato tutti: \"Il suo ottimismo è autentico e contagioso. Basta crederci\"",
+            "description": "L'autore e interprete Jason Sudeikis non ha voluto spegnere le speranze dei fan su eventuali spinoff dopo il finale della terza stagione",
+            "url": "https://www.repubblica.it/serietv/appletvplus/2023/06/07/news/ted_lasso_jason_sudeikis_ed_sheeran_terza_stagione-402798460/",
+            "urlToImage": "https://www.repstatic.it/content/nazionale/img/2023/06/07/083745199-55043094-193b-48a0-aacd-f22bccd5b2dd.jpg",
+            "publishedAt": "2023-06-07T06:39:29Z",
+            "content": "Crederci. L'allenatore di football universitario americano Ted Lasso, scaraventato in Inghilterra ad allenare una squadra di calcio in Premier League, in tre stagioni ha chiesto alla squadra, ai tifo… [+404 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fstoppers"
+            },
+            "author": "Lee Morris",
+            "title": "Apple Vision Pro is Goofy",
+            "description": "Monday, Apple made a groundbreaking announcement: the release of their Apple Vision Pro augmented reality (AR) headset, priced at $3,500. As an enthusiast, I can't help but feel a mix of excitement and skepticism about this new product. I don't think there's …",
+            "url": "https://fstoppers.com/gear/apple-vision-pro-goofy-634240",
+            "urlToImage": "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2023/06/apple-vision-pro-first-impressions.jpg",
+            "publishedAt": "2023-06-07T08:04:01Z",
+            "content": "Monday, Apple made a groundbreaking announcement: the release of their Apple Vision Pro augmented reality (AR) headset, priced at $3,500. As an enthusiast, I can't help but feel a mix of excitement a… [+1495 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fstoppers"
+            },
+            "author": "Alex Cooke",
+            "title": "The New MacBook Air Might Become Apple's Most Popular Computer Yet",
+            "description": "At WWDC 2023, Apple did something fans have been hoping the company would do for years now: they released a 15-inch MacBook Air. It might become their most popular laptop yet. Manila Envelopes and Big Screen Wishes My first Mac computer was a MacBook Air I go…",
+            "url": "https://fstoppers.com/gear/new-macbook-air-might-become-apples-most-popular-laptop-yet-634243",
+            "urlToImage": "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2023/06/img-15-inch-macbook-air-4.jpg",
+            "publishedAt": "2023-06-07T03:24:12Z",
+            "content": "At WWDC 2023, Apple did something fans have been hoping the company would do for years now: they released a 15-inch MacBook Air. It might become their most popular laptop yet. Manila Envelopes and Bi… [+5845 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techbang.com"
+            },
+            "author": "數位時代",
+            "title": "iPhone也能「嗶」進捷運了？北捷將增2種「手機感應」進站方式！但背後還有難關",
+            "description": "日前悠遊卡公司提出用手機為悠遊卡加值的方案，在用戶間又興起是否可以憑手機進閘門的討論。究竟用戶為何不能用iPhone進北捷閘門？果粉也能用手機「嗶」進北捷了嗎？台北捷運公司處長胡正倫於北市議會中報告捷運閘門重置工程的進度，預告未來將新增2種手機搭乘捷運的方式，包括「手機綁定信用卡」、「手機內建交通卡」，預計2026年開放相關服務。\n<ul>\n<li>延伸閱讀：新一代「超級悠遊卡」開箱實測：功能不夠超級，技術也沒有很突破\n</li>\n</ul>\n北捷指出，未來自動收費閘門電子主單元重置完成後，除原功能外，將新增二維…",
+            "url": "https://www.techbang.com/posts/106405-can-the-iphone-also-beep-into-the-mrt-beijie-will-add-2",
+            "urlToImage": "https://cdn1.techbang.com/system/excerpt_images/106405/original/56eb0e428294feb9a7671125e0f1c029.jpg?1684463341",
+            "publishedAt": "2023-06-07T06:45:00Z",
+            "content": "22026\r\nQREMV\r\n2iPhone\r\niPhoneSuica202320252026\r\nQREMV\r\niPhone2022.10.24\r\nAndroidNFC SIMAppNFCSamsung Pay\r\nSuicaiPhone\r\niPhoneApple Pay\r\nSuica\r\n10SuperCardApple payiPhone\r\niPhone3\r\nApple pay\r\niPhone A… [+794 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Techbang.com"
+            },
+            "author": "36Kr",
+            "title": "Apple Vision Pro外媒試戴：如何設定及認證、介面是否容易上手、感覺如何？第一波測評來了",
+            "description": "這款被蘋果寄予厚望的產品，能開啟空間運算領域的「iPhone時刻」嗎？\n在蘋果的2023年全球開發者大會（WWDC）上，蘋果首代混合現實眼鏡（官方說法是「空間運算設備」）、醞釀了7年的VisionPro終於亮相。\n這款被蘋果寄予厚望的產品，能開啟空間運算領域的「iPhone時刻」嗎？\n科技媒體9to5MAC記者Chance Miller有幸率先獲得了一次試用機會。Miller當時在WWDC現場觀看主題演講，之後被帶到Apple Park的展示大樓，開啟VisionPro創造的世界之旅。\n\n文章目錄\r\n\n<ul>\n…",
+            "url": "https://www.techbang.com/posts/106996-how-does-an-apple-vision-pro-try-on-feel-the-first-wave-of",
+            "urlToImage": "https://cdn2.techbang.com/system/excerpt_images/106996/original/f0139f5fbe0a9eff55a6cbc7cc839d9f.jpg?1686107662",
+            "publishedAt": "2023-06-07T06:00:00Z",
+            "content": "2023WWDC7VisionPro\r\niPhone\r\n9to5MACChance MillerMillerWWDCApple ParkVisionPro\r\nApple Vision ProM2R1 3D107,000\r\nVisionProMiller\r\niPhone14iPhone\r\nSpatial Audio\r\nMilleriPhone14\r\nMiller\r\nMillerVisionPro\r… [+622 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ascii.jp"
+            },
+            "author": "ASCII",
+            "title": "アップルの次期OSの「ウィジェット」がめちゃめちゃ便利そう！",
+            "description": "2023年のWWDCは、製品もOSの新機能もてんこ盛りでしたが、OS関連のネタを俯瞰してみると「ウィジェット」について、仕上げの段階に入ったタイミングだったのかな、と感じました。",
+            "url": "https://weekly.ascii.jp/elem/000/004/139/4139884/",
+            "urlToImage": "https://ascii.jp/img/2023/06/06/3548558/l/b2fd39c53293ae11.png",
+            "publishedAt": "2023-06-07T02:30:00Z",
+            "content": "macOS Sonoma\r\nWWDCOSOS\r\niPadOS 17macOS Sonoma\r\nwatchOSDigital Crown……\r\nApple WatchDigital Crown\r\n2014iOS 8OS X 10.10 YosemitemacOS2019macOS 10.15 Catalina\r\n2020iOS 14macOS 11 Big SurUI\r\n2021iOS 15202… [+35 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "desire.athow@futurenet.com (Desire Athow)",
+            "title": "The Apple Vision Pro costs the same as Microsoft’s Hololens - there’s a reason why",
+            "description": "Opinion: With a big price tag and a market that’s lukewarm at best, could Apple be betting on enterprise?",
+            "url": "https://www.techradar.com/news/the-apple-vision-pro-costs-the-same-as-microsofts-hololens-theres-a-reason-why",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/tXbiiTudKzVGYFsLcU5RTK-1200-80.png",
+            "publishedAt": "2023-06-07T04:14:14Z",
+            "content": "The Vision Pro seems to be the perfect fit for an enterprise audience that has been accustomed to the promises of Microsoft’s Hololens platform\r\n for almost a decade. Augmented reality, rather than V… [+3801 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "michelle.uy@futurenet.com (Michelle Rae Uy)",
+            "title": "These are the macOS 14 Sonoma features I can't wait to try",
+            "description": "The new macOS 14 Sonoma may not have a lot of massive features, but it’s got quite a few that could prove a game-changer to my productivity.",
+            "url": "https://www.techradar.com/news/these-are-the-macos-14-sonoma-features-i-cant-wait-to-try",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/tYAXrGbpR4LNQ6J5zXpDQo-1200-80.jpg",
+            "publishedAt": "2023-06-07T07:00:09Z",
+            "content": "The macOS 14 Sonoma has officially been announced, but before you get excited, there really isn’t a lot to unpack here. Like Monterey before it, this wine country-inspired (at least in the name) oper… [+7156 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "David Phelan, Senior Contributor, \n David Phelan, Senior Contributor\n https://www.forbes.com/sites/davidphelan/",
+            "title": "iOS 17: Apple Reveals Exactly Which iPhones Will Run The Blockbuster New Software",
+            "description": "Apple has just announced the next generation of iPhone software, iOS 17, coming this fall. Here's the comprehensive list of iPhones which can take advantage of it.",
+            "url": "https://www.forbes.com/sites/davidphelan/2023/06/06/ios-17-apple-reveals-exactly-which-iphones-will-run-the-blockbuster-new-software-iphone-15-pro-max/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6473b9a338ae014c587fb060/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-06-07T00:00:15Z",
+            "content": "Which iPhones will be able to run iOS 17?\r\nDavid Phelan\r\nApple announced new software for its iPhone, iPad, Mac, Apple Watch at WWDC on Monday, June 5, alongside a new MacBook Air and Apple Vision Pr… [+2941 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SlashGear"
+            },
+            "author": "staff@slashgear.com (Dave McQuilling)",
+            "title": "Apple visionOS Wants To Do For AR What iOS Did For Smartphones",
+            "description": "Apple finally introduced its mixed-reality headset, the Vision Pro, during WWDC 2023. The headset is powered by visionOS, which may change the AR game entirely.",
+            "url": "https://www.slashgear.com/1307039/apple-visionos-transform-ar-like-ios-smartphones/",
+            "urlToImage": "https://www.slashgear.com/img/gallery/apple-vision-os-wants-to-do-for-ar-what-ios-did-for-smartphones/l-intro-1686101904.jpg",
+            "publishedAt": "2023-06-07T01:52:17Z",
+            "content": "Building an augmented reality platform isn't easy. Huge companies like Google and Samsung have been working on it for years, while Meta shifted the main focus of its company toward the concept and ha… [+1696 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SlashGear"
+            },
+            "author": "staff@slashgear.com (Elijah Rawls)",
+            "title": "4 Of The Best Computer Mice For Your Mac, Ranked",
+            "description": "Apple offers several advanced mice options for power users, but depending on the work you&amp;#39;re doing, third-party options may do the job even better.",
+            "url": "https://www.slashgear.com/1304903/best-computer-mice-mac/",
+            "urlToImage": "https://www.slashgear.com/img/gallery/4-of-the-best-computer-mice-for-your-mac-ranked/l-intro-1685976071.jpg",
+            "publishedAt": "2023-06-07T03:00:06Z",
+            "content": "Claiming the top spot is Apple's Magic Mouse. This great-looking device perfectly embodies Apple's commitment to simplicity, style, and functionality. More than just a mouse, it's a multi-touch devic… [+1290 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livedoor.jp"
+            },
+            "author": "nwknews",
+            "title": "AppleのVRメガネ「Vision Pro」なんかヤバいっぽい",
+            "description": "1: それでも動く名無し  2023/06/07(水) 11:34:26.48 ID:OcDH7xsy0トー横キッズの女の子と遊んだんだがヤベーな  体験した記者たちがみんな大絶賛してる模様                    https://www.youtube.com/watch?v=TX9qSaGXFyg",
+            "url": "http://blog.livedoor.jp/nwknews/archives/6043265.html",
+            "urlToImage": "https://livedoor.blogimg.jp/nwknews/imgs/0/2/02317c78-s.jpg",
+            "publishedAt": "2023-06-07T05:00:46Z",
+            "content": "zarathustra1116@yahoo.co.jp"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cool3c.com"
+            },
+            "author": "Chevelle.fu",
+            "title": "雖然全新 Mac Pro 給了 PCIe 插槽，但恐怕你還是別想安裝 AMD 與 NVIDIA 的顯示卡",
+            "description": "蘋果在 WWDC 宣布處理器去 Intel 化的最後一步： M2 Ultra 晶片與 Mac Pro 工作站，借助以雙 M2 Max 構成的 M2 Ultra 晶片，以及最高達 192GB 的統一記憶體，使得效能得以較採用 Intel 處理器時期大幅翻倍，同時機箱結構也保留多路的 PCIe 插槽，只不過以蘋果的習慣，這些 PCIe 插槽的目的並非為了提供使用者自由性，而是用於擴充蘋果認證的介面卡，這也意味著能夠安裝如 AMD 、 NVIDIA 顯示卡的機率微乎其微。 蘋果不開放安裝驅動的話，能安裝 GPU 也沒意…",
+            "url": "https://www.cool3c.com/article/194481",
+            "urlToImage": "https://sw.cool3c.com/user/29442/2023/4ab79baf-93e2-4db3-89b7-1bd67a5bcb4a.jpg?fit=max&w=1400&q=80",
+            "publishedAt": "2023-06-07T04:57:04Z",
+            "content": "WWDC Intel M2 Ultra Mac Pro M2 Max M2 Ultra 192GB Intel PCIe PCIe AMD NVIDIA \r\n GPU \r\n PCIe Apple Silicon USB4 Thunderbolt eGPU USB IF GPU Mac Pro I/O I/O GPU PCIe \r\n 192GB M2 Ultra \r\nMac Pro Apple S… [+323 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Iphoneitalia.com"
+            },
+            "author": "Giuseppe Migliorino",
+            "title": "Apple acquisisce Mira, aziende specializzata in visori AR",
+            "description": "Nuova acquisizione di Apple, questa volta in ambito visori AR. \nLink all'articolo originale: Apple acquisisce Mira, aziende specializzata in visori AR",
+            "url": "https://www.iphoneitalia.com/810040/apple-acquisisce-mira",
+            "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2023/06/apple-mira.jpg",
+            "publishedAt": "2023-06-07T07:37:27Z",
+            "content": "Nuova acquisizione di Apple, questa volta in ambito visori AR.\r\nAppena un giorno dopo la presentazione del Vision Pro, The Verge riferisce che Apple ha acquisito la startup AR Mira, azienda nota al p… [+1259 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Iphoneitalia.com"
+            },
+            "author": "Giuseppe Migliorino",
+            "title": "Apple Vision Pro supporta una tastiera virtuale",
+            "description": "Il visore Apple consente di digitare il testo sfruttando una tastiera virtuale. \nLink all'articolo originale: Apple Vision Pro supporta una tastiera virtuale",
+            "url": "https://www.iphoneitalia.com/810034/tastiera-virtuale-vision-pro",
+            "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2023/06/vision-pro-tastiera-virtuale.jpg",
+            "publishedAt": "2023-06-07T07:00:50Z",
+            "content": "Il visore Apple consente di digitare il testo sfruttando una tastiera virtuale.\r\nIl Vision Pro di Apple fa grande affidamento alle gesture delle mani per controllare l’interfaccia e confermare le var… [+1000 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Iphoneitalia.com"
+            },
+            "author": "Giuseppe La Terza",
+            "title": "Apple ha reso gratuita la versione beta di iOS 17 per gli sviluppatori registrati",
+            "description": "Grande novità per quanto riguarda l'installazione della versione per sviluppatori di iOS 17 e non solo.\nLink all'articolo originale: Apple ha reso gratuita la versione beta di iOS 17 per gli sviluppatori registrati",
+            "url": "https://www.iphoneitalia.com/810020/apple-ha-reso-gratuita-versione-beta-ios-17",
+            "urlToImage": "https://static.iphoneitalia.com/wp-content/uploads/2023/06/iOS-17-b1.jpg",
+            "publishedAt": "2023-06-07T06:07:15Z",
+            "content": "Grande novità per quanto riguarda l'installazione della versione per sviluppatori di iOS 17 e non solo.\r\nPer anni, l’accesso alla versione beta per sviluppatori di iOS e ad altre build per sviluppato… [+1635 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Olhardigital.com.br"
+            },
+            "author": "Rodrigo Mozelli",
+            "title": "Bye, Siri! Apple desativa comando clássico que aciona assistente de voz",
+            "description": "Pronunciar apenas o nome da assistente bastará para ela responder\nO post Bye, Siri! Apple desativa comando clássico que aciona assistente de voz apareceu primeiro em Olhar Digital.",
+            "url": "https://olhardigital.com.br/2023/06/06/reviews/bye-siri-apple-desativa-comando-classico-que-aciona-assistente-de-voz/",
+            "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2023/06/wwdc-2023-hey-siri-x-e1685996878849.jpg",
+            "publishedAt": "2023-06-07T02:08:10Z",
+            "content": "A Apple decretou, na segunda-feira (5), durante seu evento com desenvolvedores, o WWDC, o fim de uma era. O comando âHey, Siriâ, que ativava a assistente de voz da empresa da maÃ§Ã£, serÃ¡ descon… [+1539 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "washingtonpost.com",
+            "title": "Apple says new iPhone autocorrect will know you don’t mean ‘duck’",
+            "description": "Apple’s adjusted auto-correct function will fix an issue that has long irked iPhone users who, when typing out a common curse word, have had it immediately replaced with a now widely understood stand-in: “duck.” Tech is not your friend. We are. Sign up for Th…",
+            "url": "https://biztoc.com/x/69d4ca01e75847bb",
+            "urlToImage": "https://c.biztoc.com/p/69d4ca01e75847bb/og.webp",
+            "publishedAt": "2023-06-07T01:08:13Z",
+            "content": "Apples adjusted auto-correct function will fix an issue that has long irked iPhone users who, when typing out a common curse word, have had it immediately replaced with a now widely understood stand-… [+296 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "investorplace.com",
+            "title": "7 EV Stocks That Could Skyrocket in the Next 12 Months",
+            "description": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As the EV revolution continues and with many EV stocks having tumbled last year, there are many well-positioned EV stocks to buy. The post 7 EV Stocks That Could Skyrocket in the Next 12 Months ap…",
+            "url": "https://biztoc.com/x/9cc82ca291b3a24e",
+            "urlToImage": "https://c.biztoc.com/p/9cc82ca291b3a24e/s.webp",
+            "publishedAt": "2023-06-07T01:08:06Z",
+            "content": "InvestorPlace - Stock Market News, Stock Advice &amp; Trading TipsAs the EV revolution continues and with many EV stocks having tumbled last year, there are many well-positioned EV stocks to buy.The … [+214 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "marketwatch.com",
+            "title": "The Moneyist: 10 reasons I won’t be buying Apple’s $3,500 Vision Pro VR headset",
+            "description": "Thanks a lot, but no thanks. Thanks for the 10,000 steps a day and for FaceTime, Thanks for the darling iPhone that’s mine, But I’m a guy with only so much time, Thanks a lot, but no thanks. Apologies to the writers Betty Comden, Adolph Green and André Previn…",
+            "url": "https://biztoc.com/x/1802fecfa602a33a",
+            "urlToImage": "https://c.biztoc.com/p/1802fecfa602a33a/s.webp",
+            "publishedAt": "2023-06-07T00:06:07Z",
+            "content": "Thanks a lot, but no thanks.Thanks for the 10,000 steps a day and for FaceTime,Thanks for the darling iPhone thats mine,But Im a guy with only so much time,Thanks a lot, but no thanks.Apologies to th… [+291 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tinhte.vn"
+            },
+            "author": "no-reply@tinhte.vn (Tuanhtran), Tuanhtran",
+            "title": "Tổng hợp những sản phẩm “One More Thing” của Apple từ quá khứ đến hiện tại",
+            "description": "Steve Jobs từ lâu đã nổi tiếng với phong cách thuyết trình của mình với giọng điệu rõ ràng, chậm rãi nhưng có một phong cách đã làm nên thương hiệu của ông từ những thập kỷ trước chính là “One More Thing”.",
+            "url": "https://tinhte.vn/thread/tong-hop-nhung-san-pham-one-more-thing-cua-apple-tu-qua-khu-den-hien-tai.3678444/",
+            "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/06/6456625_Cover-nhung-san-pham-one-more-thing-da-duoc-gioi-thieu-tinhte-tuanhtran.png",
+            "publishedAt": "2023-06-07T04:15:59Z",
+            "content": "Vào nm 2003, Steve Jobs tip tc gii thiu th h máy Mac tip theo vi tên gi là Power Mac G5. C th hn, Power Mac G5 s dng CPU PowerPC G5 u tiên ca IBM và c cho là nhanh hn 50% so vi chip G4. Apple gi nó l… [+9567 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tinhte.vn"
+            },
+            "author": "no-reply@tinhte.vn (cuhiep), cuhiep",
+            "title": "Hướng dẫn: mang widget ra Desktop trên macOS Sonoma",
+            "description": "Tính năng này được Apple nhắc đến trong sự kiện ra mắt hệ điều hành Sonoma và được nhiều anh em thích. Mình cài và xài từ hôm qua, thấy việc đưa Widget ra màn hình trên Sonoma cũng đơn giản và có giá trị.",
+            "url": "https://tinhte.vn/thread/huong-dan-mang-widget-ra-desktop-tren-macos-sonoma.3678630/",
+            "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/06/6456690_Widget-macos-Sonoma-1.jpg",
+            "publishedAt": "2023-06-07T01:18:36Z",
+            "content": "Ví d trên Mac mình hoàn toàn không cài ng dng LG ThinQ hay ASANA nhng trong phn qun lý Widget thì mình có th kéo các Widget ca hai app này ra desktop. Hay các widget ca Facebook thì là theo tài khon … [+262 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neowin"
+            },
+            "author": "Aditya Tiwari",
+            "title": "Now anyone can download the iOS 17 Developer Beta 1 for free",
+            "description": "Apple is now allowing anyone with an Apple ID to download and install its latest iOS 17 developer beta update. Previously, the same was available to users only via the paid Apple Developer Program. Read more...",
+            "url": "https://www.neowin.net/news/now-anyone-can-download-the-ios-17-developer-beta-1-for-free/",
+            "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2023/06/1686115038_screenshot_2023-06-07_at_10.38.34_am_story.jpg",
+            "publishedAt": "2023-06-07T05:42:01Z",
+            "content": "Apple showcased its freshly-baked iOS 17 software update at the WWDC 2023 keynote live stream this week. The latest update for iPhone is scheduled for a release later this year, sometime during the f… [+1846 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Neowin"
+            },
+            "author": "John Callaham",
+            "title": "Reddit is the latest tech company to announce layoffs, affecting 5 percent of its workers",
+            "description": "The layoffs will see 90 people lose their jobs at Reddit, which will also cut down on hiring for the rest of the year. The company is also facing a backlash against its updated API pricing. Read more...",
+            "url": "https://www.neowin.net/news/reddit-is-the-latest-tech-company-to-announce-layoffs-affecting-5-percent-of-its-workers/",
+            "urlToImage": "https://cdn.neowin.com/news/images/uploaded/2018/03/1519944297_redditlogo2_story.jpg",
+            "publishedAt": "2023-06-07T04:02:01Z",
+            "content": "Reddit has joined the long list of tech companies in the past several months to announce layoffs. The popular online forum will let go of 90 of its employees, which represents 5 percent of its total … [+1585 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Netafull.net"
+            },
+            "author": "コグレマサト",
+            "title": "Appleのティム・クックCEOがニュース番組に出演し「Vision Pro」について語る「現実世界から孤立しないことがデザインの大きなポイント」",
+            "description": "Appleのティム・クックCEOがABCニュースの朝の情報銀組「Good Morning America」に出演し「Vision Pro」についてRobin Roberts氏のインタビューに答えていました。動画はYouT...\n投稿 Appleのティム・クックCEOがニュース番組に出演し「Vision Pro」について語る「現実世界から孤立しないことがデザインの大きなポイント」 は ネタフル に最初に表示されました。",
+            "url": "https://netafull.net/apple-vision/0130605.html",
+            "urlToImage": "https://netafull.net/wp-content/uploads/2023/06/tim-cook-interview-vision.jpg",
+            "publishedAt": "2023-06-07T01:00:00Z",
+            "content": "AppleCEOABCGood Morning AmericaVision ProRobin RobertsYouTube\r\nCEOGood Morning America\r\n4K"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "3dnews.ru"
+            },
+            "author": null,
+            "title": "Доля Apple на рынке смартфонов Северной Америки выросла до 59 % в первом квартале",
+            "description": "По данным аналитической компании Canalys, рынок смартфонов Северной Америки пережил четвёртый квартал падения поставок, сократившись на 11,2 % в годовом сравнении до 34,6 млн устройств в первом квартале 2023 года. По итогам трёхмесячного отрезка Apple являетс…",
+            "url": "https://3dnews.ru/1088008/dolya-apple-na-rinke-smartfonov-severnoy-ameriki-virosla-do-59-v-pervom-kvartale",
+            "urlToImage": "https://3dnews.ru/assets/external/illustrations/2023/06/07/1088008/18.jpg",
+            "publishedAt": "2023-06-07T02:22:00Z",
+            "content": "Canalys, , 11,2 % 34,6 2023 . Apple 59 %, 8 2022 .\r\n: Apple\r\n, $200. $800 , $790, $671.\r\nSamsung 23 % . Motorola 7 %. Google Pixel (4 %) TCL (3 %). OnePlus Nokia 1 % .\r\n : Canalys\r\nCanalys , Apple . … [+171 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sspai.com"
+            },
+            "author": "少数派编辑部",
+            "title": "派早报：1Password 开始测试通行密钥支持等",
+            "description": "Apple 免费开放开发者测试版下载安装资格，Spotify 播客部门裁员约 200 人等。查看全文",
+            "url": "https://sspai.com/post/80196",
+            "urlToImage": "https://cdn.sspai.com/2023/6/7/article/dbc19e49-4081-55ef-94f3-95b942677685.png",
+            "publishedAt": "2023-06-07T01:07:17Z",
+            "content": "1Password \r\n6 6 1Password PasskeyChromeEdgeFirefoxBrave Safari 1Password 1Password \r\nApple \r\nMacRumors Apple 99 / Apple Apple ID \r\nSpotify 200 \r\n6 5 Spotify Sahar Elhabashi Spotify 2% 200 1 6% Spotif… [+223 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sspai.com"
+            },
+            "author": "JLDUAN",
+            "title": "没有 Google，Chrome 将会怎样？",
+            "description": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+            "url": "https://sspai.com/post/80189",
+            "urlToImage": "https://cdn.sspai.com/6/7/2023/article/928987c1-a595-bde2-bf43-2e7780747a35.jpg",
+            "publishedAt": "2023-06-07T03:28:57Z",
+            "content": "Matrix  \r\nMatrix  Matrix \r\nGoogle Chrome 2008 9 2 Chromium Chromium BraveVivaldi 2023 5 Chrome 62%1  Chromium Chrome \r\nChrome Google Chrome Google Chrome Google \r\nChrome bug Chrome Windows 2 Chrome \r… [+2186 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Skift"
+            },
+            "author": "Skift",
+            "title": "Hotel CEOs Are Bullish on Continued Boom",
+            "description": "Today's edition of Skift's daily podcast looks closer at hotel CEOs' optimism, new research about Vacasa's business, and a jet ordering battle in India. -Rashaad Jorden",
+            "url": "https://skift.com/2023/06/07/hotel-ceos-are-bullish-on-continued-boom/",
+            "urlToImage": "https://skift.com/wp-content/uploads/2023/02/Le-Splendid-Hotel-Lac-d_Annecy-accor-handwritten-collection-source-accor-group.jpg",
+            "publishedAt": "2023-06-07T07:50:57Z",
+            "content": "Good morning from Skift. Its Wednesday, June 7. Heres what you need to know about the business of travel today.\r\nApple Podcasts | Spotify | Overcast | Google Podcasts\r\nHotel executives expressed opti… [+2372 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tinhte.vn"
+            },
+            "author": "no-reply@tinhte.vn (Lê Q Khánh), Lê Q Khánh",
+            "title": "Anh em có thể mua bao nhiêu sản phẩm khác của Apple ở mức giá của kính Vision Pro?",
+            "description": "Tại sự kiện WWDC năm nay, Apple ra mắt bộ kính \"thực tế hỗn hợp\" Vision Pro AR/VR, với mức giá khởi điểm là 3.499 USD. Với số tiền này, hãy thử tính xem anh em có thể mua bao nhiêu sản phẩm khác của Apple.",
+            "url": "https://tinhte.vn/thread/anh-em-co-the-mua-bao-nhieu-san-pham-khac-cua-apple-o-muc-gia-cua-kinh-vision-pro.3678541/",
+            "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/06/6456478_apple-vision-pro-exchange_cover.jpg",
+            "publishedAt": "2023-06-07T07:04:59Z",
+            "content": "Ti s kin WWDC nm nay, Apple ra mt b kính \"thc t hn hp\" Vision Pro AR/VR, vi mc giá khi im là 3.499 USD. Vi s tin này, hãy th tính xem anh em có th mua bao nhiêu sn phm khác ca Apple.120 cái AirTag (m… [+495 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tinhte.vn"
+            },
+            "author": "no-reply@tinhte.vn (Tuanhtran), Tuanhtran",
+            "title": "Tổng hợp những sản phẩm “One More Thing” từ quá khứ đến hiện tại",
+            "description": "Steve Jobs từ lâu đã nổi tiếng với phong cách thuyết trình của mình với giọng điệu rõ ràng, chậm rãi nhưng có một phong cách đã làm nên thương hiệu của ông từ những thập kỷ trước chính là “One More Thing”.",
+            "url": "https://tinhte.vn/thread/tong-hop-nhung-san-pham-one-more-thing-tu-qua-khu-den-hien-tai.3678444/",
+            "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/06/6456625_Cover-nhung-san-pham-one-more-thing-da-duoc-gioi-thieu-tinhte-tuanhtran.png",
+            "publishedAt": "2023-06-07T03:08:33Z",
+            "content": "Có th nói ây li là mt cuc cách mng hoc là tái nh ngha li VR/AR nh nhiu ngi nói. Vision Pro s cho anh em mt không gian riêng t phc v nhng nhu cu nh c báo, gii trí, xem phim, gi in, thm chí là làm vic.… [+943 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tinhte.vn"
+            },
+            "author": "no-reply@tinhte.vn (P.W), P.W",
+            "title": "CEO Tim Cook: Mức giá 3.499 USD của kính Apple Vision Pro \"là hợp lý\"",
+            "description": "Trong khuôn khổ WWDC 2023, sau keynote, CEO Tim Cook đã có cuộc phỏng vấn với người dẫn Robin Roberts của chương trình Good Morning America của đài ABC.\n \n\n \nTrong cuộc phỏng vấn này, CEO của Apple cho rằng…",
+            "url": "https://tinhte.vn/thread/ceo-tim-cook-muc-gia-3-499-usd-cua-kinh-apple-vision-pro-la-hop-ly.3678582/",
+            "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/06/6456566_Cover-Apple.jpg",
+            "publishedAt": "2023-06-07T01:05:28Z",
+            "content": "Trong cuc phng vn này, CEO ca Apple cho rng, cp kính Apple Vision Pro va c gii thiu rng sáng nay theo gi Vit Nam là th tuyt vi, vì nó không ch có n thun mt ng dng c nht lôi kéo mi ngi tìm n thit b, m… [+1307 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tinhte.vn"
+            },
+            "author": "no-reply@tinhte.vn (Pnghuy), Pnghuy",
+            "title": "iMessage trên iOS 17 đang cố gắng cạnh tranh với các ứng dụng OTT khác như thế nào?",
+            "description": "Trước khi iOS 17 ra mắt, iMessage vốn vẫn luôn là một trong những ứng dụng nhắn tin phổ biến nhất trên iOS, hay kể cả iPadOS. Nhưng với iOS 16 trở về trước, những vấn đề của iMessage vẫn còn tồn tại và chưa thể cạnh tranh được với các ứng dụng nhắn…",
+            "url": "https://tinhte.vn/thread/imessage-tren-ios-17-dang-co-gang-canh-tranh-voi-cac-ung-dung-ott-khac-nhu-the-nao.3678514/",
+            "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/06/6456473_Cover-iMessage-iOS17-tinhte.jpg",
+            "publishedAt": "2023-06-07T02:26:46Z",
+            "content": "Thc ra vi nhng ngi dùng iOS hay iPadOS thì vic dùng iMessage ã là quá , nhng ngay c iMessage cng không cho thy s thoi mái trong khi s dng, in hình nht là vic reply li mt tin nhn nào ó, iOS 16 cn phi … [+385 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cult of Mac"
+            },
+            "author": "Rajesh Pandey",
+            "title": "watchOS 10 brings Optimized Charge Limit to older Apple Watch models",
+            "description": "Apple will expand the Optimized Charge Limit feature from the Apple Watch Ultra to other Apple Watch models with watchOS 10.\n(via Cult of Mac - Tech and culture through an Apple lens)",
+            "url": "https://www.cultofmac.com/819620/watchos-10-brings-optimized-charge-limit-to-older-apple-watch-models/",
+            "urlToImage": "https://www.cultofmac.com/wp-content/uploads/2023/02/Apple_watch-series7-availability_hero_10052021_big-1.jpg.large_2x-1536x1097-1-1-2.jpg",
+            "publishedAt": "2023-06-07T05:41:11Z",
+            "content": "watchOS 10 will bring Optimized Charge Limit, as seen on the Apple Watch Ultra, to older Apple smartwatches. The feature debuted with watchOS 9 but was only available for the Ultra wearable.\r\nOptimiz… [+1563 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cult of Mac"
+            },
+            "author": "Rajesh Pandey",
+            "title": "Apple makes downloading iOS 17, iPadOS 17 and other developer betas free",
+            "description": "Apple has made the iOS 17, iPadOS 17 and macOS Sonoma developer betas free to download through the Apple Developer Program.\n(via Cult of Mac - Tech and culture through an Apple lens)",
+            "url": "https://www.cultofmac.com/819628/apple-downloading-ios-17-ipados-17-developer-betas-free/",
+            "urlToImage": "https://www.cultofmac.com/wp-content/uploads/2023/06/ios-17-preview.jpg",
+            "publishedAt": "2023-06-07T07:30:17Z",
+            "content": "Apple has made its OS developer beta builds free to download. You can now enroll in the Apple Developer Program for free.\r\nThis will allow you to download the latest iOS, iPadOS, or macOS beta for fr… [+1775 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Spidersweb.pl"
+            },
+            "author": "kusmierekma@gmail.com (Malwina Kuśmierek)",
+            "title": "iOS 17 ma coś dobrego dla Polaków. Długo czekaliśmy na te funkcje klawiatury",
+            "description": "Brak w pełni funkcjonalnej polskiej klawiatury z autokorektą i przewidywaniem tekstu spędzał sen z powiek polskim użytkownikom smartfonów Apple. Po latach oczekiwania koncern wykonał ten mały wielki ukłon w stronę Polaków: klawiatura w iOS 17 ma niemal wszyst…",
+            "url": "https://spidersweb.pl/2023/06/ios-17-polska-autokorekta-przewidywanie-tekstu.html",
+            "urlToImage": "https://ocs-pl.oktawave.com/v1/AUTH_2887234e-384a-4873-8bc5-405211db13a2/spidersweb/2023/06/ios-17-polska-autokorekta-przewidywanie-tekstu.jpg",
+            "publishedAt": "2023-06-07T07:45:12Z",
+            "content": "Podczas prezentacji systemu iOS 17 na konferencji WWDC 2023 Apple z zachwytem powici samej klawiaturze osobny, trzyminutowy blok. Bowiem na pokadzie iOS 17 znajdzie si jeszcze lepszy model przewidywa… [+415 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Elespanol.com"
+            },
+            "author": "Daniel Gonz�lez",
+            "title": "FREE FIRE | Códigos de hoy miércoles 7 de junio de 2023 - Recompensas gratis",
+            "description": "<!--cache-->Estos son todos los códigos gratis de Garena Free Fire que podrás canjear hoy, miércoles 7 de junio de 2023. Consigue recompensas como skins, diamantes y mucho más.<!--aa--->El éxito para móviles Android e iOS, Garena Free Fire, ha recibido nuevos…",
+            "url": "https://vandal.elespanol.com/noticia/1350762947/free-fire-codigos-de-hoy-miercoles-7-de-junio-de-2023-recompensas-gratis/",
+            "urlToImage": "https://media.vandal.net/i/ivandal/1200x630/6-2023/202367759727_1.jpg",
+            "publishedAt": "2023-06-07T06:02:00Z",
+            "content": "El xito para mviles Android e iOS, Garena Free Fire, ha recibido nuevos cdigos diarios para hoy mircoles 7 de junio de 2023. Los jugadores pueden canjear estos cdigos para recibir recompensas variada… [+2469 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Taisy0.com"
+            },
+            "author": "taisy0",
+            "title": "｢watchOS 10｣ではバッテリーの充電上限の最適化機能が一部旧モデルでも利用可能に",
+            "description": "Appleは昨日にApple Watch向けの最新OS「watchOS 10」を発表しましたが、MacRumorsによると、その「watchOS 10」では「Apple Watch Ultra」でのみ利用可能だったバッテ ...",
+            "url": "https://taisy0.com/2023/06/07/172701.html",
+            "urlToImage": "https://taisy0.com/wp-content/uploads/2023/06/th_watchos10logo.jpg",
+            "publishedAt": "2023-06-07T00:28:02Z",
+            "content": "AppleApple WatchOSwatchOS 10MacRumorswatchOS 10Apple Watch Ultra\r\nApple Watch Ultra\r\nApple Watch UltraApplewatchOS 10Apple Watch SEApple Watch Series 6/7/8\r\nApple Watch Apple"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macitynet.it"
+            },
+            "author": "Mauro Notarianni",
+            "title": "Apple ha comprato Mira, startup specializzata in Realtà Virtuale",
+            "description": "il giorno dopo la presentazione ufficiale del Vision Pro, si apprende che Apple ha acquisito Mira, azienda specializzata in app per la Realtà Virtiuale e Mista.\n- su macitynet.it Apple ha comprato Mira, startup specializzata in Realtà Virtuale",
+            "url": "https://www.macitynet.it/apple-ha-comprato-mira-startup-specializzata-in-realta-virtuale/",
+            "urlToImage": "https://www.macitynet.it/wp-content/uploads/2023/06/vrapple.jpg",
+            "publishedAt": "2023-06-07T06:59:34Z",
+            "content": "il giorno dopo la presentazione ufficiale del Vision Pro, si apprende che Apple ha acquisito Mira, azienda specializzata in app per la Realtà Mista.\r\nTra i clienti di Mira, c’è l’esercito americano, … [+1272 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macitynet.it"
+            },
+            "author": "Yuri Di Prodo",
+            "title": "Vision Pro, Apple proporrà il kit per sviluppatori",
+            "description": "Servirà agli sviluppatori per provare le app rendendole perfette in tempo per il lancio del visore Vision Pro: ecco cosa offre Apple\n- su macitynet.it Vision Pro, Apple proporrà il kit per sviluppatori",
+            "url": "https://www.macitynet.it/vision-pro-apple-kit-sviluppatori/",
+            "urlToImage": "https://www.macitynet.it/wp-content/uploads/2023/06/vision-pro-kit-sviluppo-programmatori-1.jpg",
+            "publishedAt": "2023-06-07T07:59:11Z",
+            "content": "Gli sviluppatori che vorranno creare le prime app per Apple Vision Pro (qui tutto quello che c’è da sapere) avranno a disposizione un visore speciale per provarle prima del lancio sul mercato.\r\nCome … [+2041 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macitynet.it"
+            },
+            "author": "Mauro Notarianni",
+            "title": "Cambiano le regole, gratis le beta per sviluppatori dei nuovi sistemi operativi Apple",
+            "description": "Apple ha cambiato regole e ora permette a tutti di scaricare gratuitamente le developer beta di iOS 17 e di altri sistemi. Ma non tutto quel che è gratis si può fare senza rischi...\n- su macitynet.it Cambiano le regole, gratis le beta per sviluppatori dei nuo…",
+            "url": "https://www.macitynet.it/come-avere-la-beta-per-sviluppatori-gratis/",
+            "urlToImage": "https://www.macitynet.it/wp-content/uploads/2023/06/ios17-icona.jpg",
+            "publishedAt": "2023-06-07T06:29:30Z",
+            "content": "Se volete provare le versioni beta dei sistemi operativi Apple nella versione più aggiornata, completa e avanzate, quella per sviluppatori, (inclusa quella di iOs 17) non sarete più costretti a pagar… [+4917 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macitynet.it"
+            },
+            "author": "Fabrizio Frattini",
+            "title": "Se parli italiano dovrai continuare a svegliare Siri con un “Ehi”",
+            "description": "Con i nuovi sistemi operativi dell'autunno, Apple consentirà di richiamare Siri anche senza dire Ehi. Ma la funzione non sarà sfruttabile da subito dagli Italiani. Ecco perchè\n- su macitynet.it Se parli italiano dovrai continuare a svegliare Siri con un “Ehi”",
+            "url": "https://www.macitynet.it/richiamare-siri-senza-dire-ehi-in-italia-non-da-subito/",
+            "urlToImage": "https://www.macitynet.it/wp-content/uploads/2023/06/siri-icona.jpg",
+            "publishedAt": "2023-06-07T05:59:53Z",
+            "content": "Una delle novità presentate alla WWWDC non la vedremo (per ora) in Italia. Si tratta della funzione grazie alla quale non sarà più necessario anteporre al nome Siri il classico Ehi.\r\nIl fatto che nel… [+1648 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macitynet.it"
+            },
+            "author": "Mauro Notarianni",
+            "title": "iPadOS 17 supporta le webcam integrate sui monitor esterni",
+            "description": "iiPadOS 17 integra il supporto per la videocamera integrata dello Studio Display e quelle di  monitor di altre marche, permettendo di sfruttarle con le chiamate FaceTime e altre app che consentono l'uso della videocamera, comodo per chi usa iPad con uno scher…",
+            "url": "https://www.macitynet.it/webcam-dei-monitor-esterni-su-ipad/",
+            "urlToImage": "https://www.macitynet.it/wp-content/uploads/2023/06/facetimeipados17.jpg",
+            "publishedAt": "2023-06-07T05:29:30Z",
+            "content": "iiPadOS 17 integra il supporto per la videocamera integrata dello Studio Display e quelle di  monitor di altre marche, permettendo di sfruttarle con le chiamate FaceTime e altre app che consentono l’… [+2314 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PhoneArena"
+            },
+            "author": "Stanislav Serbezov",
+            "title": "Apple makes it easier for you to check out what it takes to be an AppStore dev",
+            "description": "After years of keeping its primary developer tools behind a paywall, Apple is finally starting to open up.",
+            "url": "https://www.phonearena.com/news/apple-developer-beta-free-tier_id147998",
+            "urlToImage": "https://m-cdn.phonearena.com/images/article/147998-wide-two_1200/Apple-makes-it-easier-for-you-to-check-out-what-it-takes-to-be-an-AppStore-dev.jpg",
+            "publishedAt": "2023-06-07T08:13:17Z",
+            "content": "So, you know Apple, right? They make some of the best smartphones in the form of the iPhone. And other products as well, like this brand new Vision Pro mixed-reality headset. But becoming a developer… [+2413 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sspai.com"
+            },
+            "author": "Tp",
+            "title": "卖 25000 的 Vision Pro 怎么样，我们找了 3 位 XR 用户聊聊看法",
+            "description": "北京时间6月6日凌晨，Apple在WWDC23开幕Keynote上发布了传闻已久的VisionPro眼镜，意味着Apple正式入局XR领域。从定价来看，VisionPro对标的可能是MetaQuest ...查看全文",
+            "url": "https://sspai.com/post/80194",
+            "urlToImage": "https://cdn.sspai.com/2023/6/6/article/d52ce8cc-4389-265c-d5d9-28368db72189.png",
+            "publishedAt": "2023-06-07T07:00:00Z",
+            "content": "6 6 Apple WWDC23 Keynote Vision Pro Apple XR Vision Pro Meta Quest Pro Apple Vision Pro Vision Pro \r\n / Apple\r\nVision Pro $3,499 24,846 M2 + R1 EyeSight Apple Vision Pro Pancake PICO 4 Meta Quest 3 \r… [+2111 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sapo.pt"
+            },
+            "author": "Pedro Simões",
+            "title": "Apple volta a copiar a Google e o Android! As novidades do iOS 17 já se conhecem há anos",
+            "description": "Apresentado na WWDC deste ano, o iOS 17 rapidamente mostrou as suas novidades. Estas pareciam encaixar bem no iPhone, mas despertaram a atenção dos mais atentos. Muitas das novidades foram copiadas pela Apple à...",
+            "url": "https://pplware.sapo.pt/apple/apple-volta-a-copiar-a-google-e-o-android-as-novidades-do-ios-17-que-ja-se-conhecem-ha-anos/",
+            "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2023/06/ios_17_logo_1.jpg",
+            "publishedAt": "2023-06-07T06:30:58Z",
+            "content": "Apresentado na WWDC deste ano, o iOS 17 rapidamente mostrou as suas novidades. Estas pareciam encaixar bem no iPhone, mas despertaram a atenção dos mais atentos. Muitas das novidades foram copiadas p… [+3636 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Codezine.jp"
+            },
+            "author": null,
+            "title": "Apple、「iOS 17ベータ」「iPadOS 17ベータ」を公開",
+            "description": "米Appleは、iOS・iPadOSの最新ベータ版となる「iOS 17ベータ」および「iPadOS 17ベータ」を開発者向けに公開している。",
+            "url": "https://codezine.jp/article/detail/17867",
+            "urlToImage": "https://codezine.jp/static/images/article/17867/14235_og.png",
+            "publishedAt": "2023-06-07T00:00:00Z",
+            "content": "iOS 17iPadOS 17BNNSBNNSRandomFillCategoricalFloatkvImage3284vImageConvolveFloatKernel_ARGB888884ImageSepConvolve_ARGB8888vImage.PixelBuffer\r\nAirPodsiOSAssistive AccessAPI\r\niOS 17iPadOS 17AppleOS1"
+        }
+    ]
+}
